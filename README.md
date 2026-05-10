@@ -19,13 +19,13 @@ This project is a real-time Moving Object Detection system developed using Pytho
 Install required libraries:
 pip install opencv-python numpy
 
-#How to Run :
+##How to Run :
 Download or clone this repository
 Open terminal in project folder
 
 
-#Run:
+##Run:
 python moving.py
 
-#Project Output:
+##Project Output:
 The system detects moving objects in the camera/video feed and displays bounding boxes around detected motion.
